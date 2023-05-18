@@ -4,6 +4,7 @@
 
 First of all, you should definitely [build your own EFI](https://dortania.github.io/OpenCore-Install-Guide/) if you have the time.
 If not, however, here's a prebuilt one.
+This EFI is only tested with macOS Big Sur. For instructions on how to install it, use [Dortania's OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/)
 ## Specs of my IdeaPad Flex 5
 
 | Component | Name |
