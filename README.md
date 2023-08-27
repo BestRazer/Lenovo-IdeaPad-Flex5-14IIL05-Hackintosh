@@ -31,7 +31,7 @@ This EFI is only tested with macOS Big Sur. For instructions on how to install i
 | Keyboard | Thanks to `VoodooPS2.kext` (Driver for PS2 devices). |
 | Trackpad | WORKING thanks to `SSDT-I2C-TPAD.aml` by [@Micael106](https://github.com/Micael106) |
 | TouchScreen | Currently not working.|
-| PowerOff, Reboot & Sleep | Currently not working. |
+| PowerOff, Reboot & Sleep | Poweroff and reboot are working, Sleep doesn't. The system crashes when trying to enter sleep mode. |
 | WiFi | Thanks to [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases). |
 | Bluetooth | Thanks to [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases). |
 | HDMI Port | Currently not working. |
